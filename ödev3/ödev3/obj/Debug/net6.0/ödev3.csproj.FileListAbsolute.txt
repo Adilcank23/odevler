@@ -1,0 +1,15 @@
+C:\Users\ADİLCAN\Source\Repos\ödev3\ödev3\obj\Debug\net6.0\ödev3.csproj.AssemblyReference.cache
+C:\Users\ADİLCAN\Source\Repos\ödev3\ödev3\obj\Debug\net6.0\ödev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADİLCAN\Source\Repos\ödev3\ödev3\obj\Debug\net6.0\ödev3.AssemblyInfoInputs.cache
+C:\Users\ADİLCAN\Source\Repos\ödev3\ödev3\obj\Debug\net6.0\ödev3.AssemblyInfo.cs
+C:\Users\ADİLCAN\Source\Repos\ödev3\ödev3\obj\Debug\net6.0\ödev3.csproj.CoreCompileInputs.cache
+C:\Users\ADİLCAN\Source\Repos\ödev3\ödev3\bin\Debug\net6.0\ödev3.exe
+C:\Users\ADİLCAN\Source\Repos\ödev3\ödev3\bin\Debug\net6.0\ödev3.deps.json
+C:\Users\ADİLCAN\Source\Repos\ödev3\ödev3\bin\Debug\net6.0\ödev3.runtimeconfig.json
+C:\Users\ADİLCAN\Source\Repos\ödev3\ödev3\bin\Debug\net6.0\ödev3.dll
+C:\Users\ADİLCAN\Source\Repos\ödev3\ödev3\bin\Debug\net6.0\ödev3.pdb
+C:\Users\ADİLCAN\Source\Repos\ödev3\ödev3\obj\Debug\net6.0\ödev3.dll
+C:\Users\ADİLCAN\Source\Repos\ödev3\ödev3\obj\Debug\net6.0\refint\ödev3.dll
+C:\Users\ADİLCAN\Source\Repos\ödev3\ödev3\obj\Debug\net6.0\ödev3.pdb
+C:\Users\ADİLCAN\Source\Repos\ödev3\ödev3\obj\Debug\net6.0\ödev3.genruntimeconfig.cache
+C:\Users\ADİLCAN\Source\Repos\ödev3\ödev3\obj\Debug\net6.0\ref\ödev3.dll
