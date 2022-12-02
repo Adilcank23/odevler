@@ -1,0 +1,15 @@
+C:\Users\ADİLCAN\Source\Repos\5.hafta\bin\Debug\net6.0\5.hafta.exe
+C:\Users\ADİLCAN\Source\Repos\5.hafta\bin\Debug\net6.0\5.hafta.deps.json
+C:\Users\ADİLCAN\Source\Repos\5.hafta\bin\Debug\net6.0\5.hafta.runtimeconfig.json
+C:\Users\ADİLCAN\Source\Repos\5.hafta\bin\Debug\net6.0\5.hafta.dll
+C:\Users\ADİLCAN\Source\Repos\5.hafta\bin\Debug\net6.0\5.hafta.pdb
+C:\Users\ADİLCAN\Source\Repos\5.hafta\obj\Debug\net6.0\5.hafta.csproj.AssemblyReference.cache
+C:\Users\ADİLCAN\Source\Repos\5.hafta\obj\Debug\net6.0\5.hafta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADİLCAN\Source\Repos\5.hafta\obj\Debug\net6.0\5.hafta.AssemblyInfoInputs.cache
+C:\Users\ADİLCAN\Source\Repos\5.hafta\obj\Debug\net6.0\5.hafta.AssemblyInfo.cs
+C:\Users\ADİLCAN\Source\Repos\5.hafta\obj\Debug\net6.0\5.hafta.csproj.CoreCompileInputs.cache
+C:\Users\ADİLCAN\Source\Repos\5.hafta\obj\Debug\net6.0\5.hafta.dll
+C:\Users\ADİLCAN\Source\Repos\5.hafta\obj\Debug\net6.0\refint\5.hafta.dll
+C:\Users\ADİLCAN\Source\Repos\5.hafta\obj\Debug\net6.0\5.hafta.pdb
+C:\Users\ADİLCAN\Source\Repos\5.hafta\obj\Debug\net6.0\5.hafta.genruntimeconfig.cache
+C:\Users\ADİLCAN\Source\Repos\5.hafta\obj\Debug\net6.0\ref\5.hafta.dll

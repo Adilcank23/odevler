@@ -1,0 +1,5 @@
+C:\Users\ADİLCAN\Source\Repos\4.hafta\obj\Debug\net6.0\4.hafta.csproj.AssemblyReference.cache
+C:\Users\ADİLCAN\Source\Repos\4.hafta\obj\Debug\net6.0\4.hafta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADİLCAN\Source\Repos\4.hafta\obj\Debug\net6.0\4.hafta.AssemblyInfoInputs.cache
+C:\Users\ADİLCAN\Source\Repos\4.hafta\obj\Debug\net6.0\4.hafta.AssemblyInfo.cs
+C:\Users\ADİLCAN\Source\Repos\4.hafta\obj\Debug\net6.0\4.hafta.csproj.CoreCompileInputs.cache
