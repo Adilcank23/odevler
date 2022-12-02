@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6cdzYYnQRZI7guaRmiMiY+G6az9aMfEf8dAXdz3auBTVhcQ8fZRBxDI6nDCy8qifp0bM1m8zzY4GbrByH0rPMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADİLCAN\\Source\\Repos\\10.hafta\\10.hafta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADİLCAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ADİLCAN\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ADİLCAN\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\ADİLCAN\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
